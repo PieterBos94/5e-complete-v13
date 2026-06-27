@@ -1,7 +1,7 @@
 {
     "id": "5e-complete",
     "title": "5e Complete Compendium",
-    "version": "0.3.13",
+    "version": "0.3.14",
     "authors": [
         {
             "name": "btbias",
@@ -16,7 +16,7 @@
     ],
     "compatibility": {
             "minimum": "10",
-            "maximum": "12",
+            "maximum": "13",
             "verified": "12.327"
     },
     "styles": [
